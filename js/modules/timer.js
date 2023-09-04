@@ -1,7 +1,7 @@
 function timer() {
 // Timer
 
-	const deadline = '2023-08-28';
+	const deadline = '2024-08-28';
 
 	function getTimeRemaining(endtime) {
 		let days, hours, minutes, seconds;
